@@ -1,4 +1,4 @@
-# Challenge-1
+# Website Refractoring
 
 ## Description
 The purpose of this repo is to demonstrate the understanding of refractoring code. That is improving it without changing what it does. While many things could be done in this particular code. I did my best to demstrate my understanding of code efficacy. You will notice redundant or un-needed code commented out in the .html and .css, as well as semantic tags included.
